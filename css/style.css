@@ -787,10 +787,10 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   margin-left: 20px;
 }
 .header .blog-title .avatar {
-  border-radius: 85%;
+  border-radius: 100%;
   overflow: hidden;
   width: 250px;
-  height: 150px;
+  height: 250px;
 }
 .header .blog-title img {
   width: 100%;
